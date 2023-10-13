@@ -8,6 +8,9 @@ This repository contains a simple calculator smart contract written in Solidity,
 ## Smart Contract Overview
 
 The smart contract provides basic arithmetic operations (addition, subtraction, multiplication, and division) and stores the results of each operation.
+Calculator deployed to: 0x234b5115935ef97f2fc7926d880C1EcAD7751651
+https://sepolia.etherscan.io/address/0x234b5115935ef97f2fc7926d880C1EcAD7751651
+
 
 ## Usage
 
@@ -41,7 +44,7 @@ npx hardhat run scripts/deploy.js --network <network>
 yarn hardhat run scripts/deploy.js --network <network>
 ```
 
-![Screenshot 1]([screenshots/screenshot1.png](https://i.ibb.co/vB89ZsL/image.png))
+![Screenshot 1](https://i.ibb.co/vB89ZsL/image.png)
 
 
 
