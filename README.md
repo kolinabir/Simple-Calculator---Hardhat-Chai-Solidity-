@@ -23,7 +23,7 @@ https://sepolia.etherscan.io/address/0x234b5115935ef97f2fc7926d880C1EcAD7751651
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/solidity-calculator.git
+https://github.com/kolinabir/Simple-Calculator---Hardhat-Chai-Solidity-
 
 # Navigate to the project directory
 cd solidity-calculator
